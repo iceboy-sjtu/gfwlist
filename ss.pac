@@ -2685,7 +2685,8 @@ var domains = {
   "91porn.com": 1, 
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1, 
-  "putty.org": 1
+  "putty.org": 1, 
+  "chromium.org"
 };
 
 var direct = 'DIRECT;';
