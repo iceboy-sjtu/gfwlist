@@ -2686,7 +2686,8 @@ var domains = {
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1, 
   "putty.org": 1, 
-  "chromium.org": 1
+  "chromium.org": 1,
+  "blogspot.com": 1
 };
 
 var direct = 'DIRECT;';
